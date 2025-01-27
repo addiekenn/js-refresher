@@ -22,6 +22,7 @@ const rufus = {
 // it there as well.
 const betty: Person = {
   firstName: "Betty",
+  //hello test
 };
 
 // Try running this file as it is (with errors). See what happens.
